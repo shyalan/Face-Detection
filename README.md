@@ -16,4 +16,4 @@ The webcam face detection project utilizes OpenCV, a popular computer vision lib
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/webcam-face-detection.git
+   git clone https://github.com/shyalan/Webcam-Face-Detection-OpenCV.git
